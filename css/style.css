@@ -50,7 +50,7 @@ ul {
 .header-address-link{
   line-height: 1.5;
   font-size: 16px;
-   text-decoration: none;
+  text-decoration: none;
   color:#434455 ;
   letter-spacing: 0.02em;
 
@@ -80,7 +80,6 @@ ul {
   line-height:1.5;
   font-weight: 500;
   color: #ffffff;
-  box-shadow: rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   cursor: pointer;
   letter-spacing: 0.04em;
